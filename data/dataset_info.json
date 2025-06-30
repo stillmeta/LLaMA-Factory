@@ -714,5 +714,11 @@
       "prompt": "content"
     },
     "folder": "python"
-  }
+  },
+  "metadata": {
+    "file_name": "video_dataset.jsonl",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    },
 }
